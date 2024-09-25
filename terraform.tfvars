@@ -1,0 +1,6 @@
+env = "DEV"
+avail-zone = "us-east-1a"
+vpc-cidr-block = "10.0.0.0/16"
+subnet-cidr-block = "10.0.0.0/24"
+instance-type = "t2.micro"
+public-key-loc = "~/.ssh/id_rsa.pub"
